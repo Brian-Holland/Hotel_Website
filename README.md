@@ -1,4 +1,4 @@
-#Responsive Hotel Website
+# Responsive Hotel Website
 
 ### Purpose
 
